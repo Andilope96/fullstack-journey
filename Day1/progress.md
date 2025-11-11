@@ -1,4 +1,4 @@
-## Day 1 – JavaScript Fundamentals (Sections 2.1 – 2.18)
+## Day 1 – JavaScript Fundamentals (Sections 2.1 – 2.18) Spend Time: 12 Hours
 
 Today I worked through JavaScript fundamentals from https://javascript.info/.  
 Below is a brief summary of each lesson and what I understood:
