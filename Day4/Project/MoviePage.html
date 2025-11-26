@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en de">
+<head>
+  <meta charset="UTF-8" />
+  <title>Favorite Movies List</title>
+  <link rel="stylesheet" href="MovieStyle.css" />
+  <script src="MovieScript.js" defer></script>
+</head>
+<body>
+  <main class="app">
+    <h1>Favorite Movies List</h1>
+    <p>Add your favorite movies to the list. Each item can be removed.</p>
+
+    <form id="movie-form">
+      <input
+        type="text"
+        id="movie-input"
+        placeholder="Enter a movie title"
+        autocomplete="off"
+      />
+      <button type="submit">Add movie</button>
+    </form>
+
+    <ul id="movie-list"></ul>
+  </main>
+</body>
+</html>

@@ -13,16 +13,49 @@ I completed the full "Code Quality" module on JavaScript.info.
 Resource link: https://javascript.info/code-quality
 
 ## Summary
-- Improved algorithmic thinking and problem-solving with real coding puzzles.
-- Practiced reading input, parsing data, and handling edge cases.
-- Learned essential code quality topics: coding style, comments, naming, automated linters, and best practices.
+### CodingGame Challenges
 
-## To Review Later
-- Revisit the Temperatures puzzle and try alternative solutions.
-- Begin exploring more medium-difficulty puzzles on CodingGame.
-- Apply code quality rules to small JavaScript mini-projects.
-- Automated Testing
-## Next Steps
+
+**Onboarding:**
+- Basic control flow and reading input from the game engine.
+- Simple loops and conditional logic.
+
+**Temperatures:**
+- Determining which number is closest to zero.
+- Working with absolute values and comparison logic.
+- Handling the rule: if two values are equally close, the positive one wins.
+
+**Mars Lander Episode 1:**
+- Parsing multiple values from input.
+- Applying step-by-step logic to control descent speed.
+- Adjusting variables based on changing conditions each iteration.
+
+### JavaScript Code Quality (from JavaScript.info)
+
+
+**Key Topics:**
+1. **Coding Style & Consistency**
+   - Proper naming conventions and indentation.
+   - Structuring code for readability.
+   - Resource: https://javascript.info/coding-style
+
+2. **Linters & Automated Checks**
+   - Tools like ESLint help detect mistakes early.
+   - Ensures consistent formatting and avoids unused or unreachable code.
+   - Resource: https://javascript.info/code-quality#linting
+
+3. **Effective Comments**
+   - Writing comments that explain *why*, not *what*.
+   - Avoiding redundant comments when code is already clear.
+   - Resource: https://javascript.info/comments
+
+4. **Clean Logic Structure**
+   - Breaking large tasks into small, focused functions.
+   - Avoiding deep nesting with guard clauses.
+   - Preferring clarity over cleverness.
+
+This forms a foundation for writing professional, maintainable JavaScript.
+
 
 ### **1. JavaScript Objects (2 hours)**
 - Learn how objects work in detail:
@@ -58,4 +91,14 @@ Resource link: https://javascript.info/code-quality
     - Button to add it to the DOM
     - Each movie has a remove button
   - All logic in pure JS (no framework)
+
+---
+
+## To Review Later
+- Revisit the Temperatures puzzle and try alternative approaches.
+- Explore more medium-difficulty puzzles on CodingGame.
+- Apply code quality rules in a small JavaScript mini‑project.
+- Automated Testing
+
+
 

@@ -1,0 +1,9 @@
+body{
+    background-color: coral;
+    color: aliceblue;
+    align-content: center;
+}
+
+#textInput{
+    width: 300px;
+}
